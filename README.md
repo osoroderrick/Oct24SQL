@@ -1,5 +1,5 @@
 # Oct24Sql
-\\\
+```
 mysql> show databases;
 +--------------------+
 | Database           |
